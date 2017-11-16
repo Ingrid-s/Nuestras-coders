@@ -1,0 +1,102 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+.container {
+  position: relative;
+  background: white;
+  width: 100%
+  height:100%;
+  margin:0;
+  display: block;
+  padding: 5px;
+}
+.big-box{
+  width: 1334px;
+  height: 900px;
+  background: white;
+  position:absolute;
+
+}
+.box1{
+  position:absolute ;
+}
+ .img1{
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: inline;
+ }
+.name1{
+  position: absolute;
+  font-family: inherit;
+  bottom:10px;
+  left: 50px;
+  font: black;
+
+}
+.img2 {
+  width: 200px;
+  height: 200px;
+  display: inline;
+  position: relative;
+  display:inline-block;
+  float: left;
+
+}
+.name2{
+ position: absolute;
+ font-family: inherit;
+ font: black;
+}
+
+.img3 {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+
+
+}
+.name3{
+ position: absolute;
+ font-family: inherit;
+ font: black;
+}
+.img4{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+}
+.name4{
+ position: absolute;
+ font-family: inherit;
+ font: black;
+}
+.img5{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+}
+.name5{
+ position: absolute;
+ font-family: inherit;
+ font: black;
+}
+.img6{
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: relative;
+  padding: 5px;
+}
+.name6{
+ position: absolute;
+ font-family: inherit;
+ font: black;
+}
